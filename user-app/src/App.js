@@ -1,9 +1,9 @@
+import Directory from './components/directory/directory.component'
+
 const App = () => {
 
   return (
-    <div>
-      Hello World
-    </div>
+    <Directory />
   )
 }
 
